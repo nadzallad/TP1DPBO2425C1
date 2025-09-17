@@ -26,14 +26,14 @@ dimana nantinya akan menmmpilkan semua produk dengan format yang jelas dengan ko
 
 python <img width="1347" height="618" alt="image" src="https://github.com/user-attachments/assets/88251b6a-353c-49e1-8bc5-364475746411" />
 java <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/be463f4d-2572-49bf-b80c-bc2f46e6fe5f" />
-cpp
+cpp <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/80182561-6734-46f6-adc2-4bd0240337ce" />
 php  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ccac22a-b9c2-47d6-b7b1-683484d05b9f" />
 
 2. Tambah Produk
 Meminta user untuk menambahkan data dari produk baru seperti id, nama, kategori dan harga produk secara berurur serta dilengkapi dengan validasi agar id tidak boleh sama dengan produk yang sudah ada. Jika id yang dimasukan sama akan muncul pesan eror dan penambahan aka dibatalkan.
 python <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31d4cbbb-75e3-4012-9c1f-b0f0b04ddb64" />
 java <img width="831" height="362" alt="image" src="https://github.com/user-attachments/assets/3a65c67a-89db-4033-8404-ed2c9884a99c" />
-cpp
+cpp <img width="1011" height="370" alt="image" src="https://github.com/user-attachments/assets/1b10369c-d9ea-497c-84e5-ab4621c7f793" />
 php  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2e3d0d35-0863-457c-aabe-f72689712630" />
 
 3. Update Produk
@@ -41,7 +41,7 @@ Ini akan meminta pengguna untuk memasukan id yang sudah ada dalam daftar untuk d
 
 python <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3ab4c3a7-b433-483c-a154-f6222bd7db38" />
 java <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/995169cc-36e2-416f-b166-11e59b534cc9" />
-cpp
+cpp <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3eb0f10-b95f-4c76-827e-4f9e8481f648" />
 php  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/703879fc-465e-4d9b-ba93-d182740d6924" />
 
 4. Hapus Produk
@@ -49,22 +49,20 @@ Meminta User untuk memasukan id produk yang ingin dihapus, jika id yang sama dit
 
 python <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a4c5906f-f3d3-4fca-a505-8dfd42894c82" />
 java <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c9370e9e-2a26-4d4e-801d-2adad1c3494a" />
-cpp
+cpp <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4e6bfefd-c4c0-44d8-9f4e-ac31fa6d23e3" />
 php  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f58914cb-d24b-40be-9d85-3855d4848bbb" />
 
 5. Cari Produk
 User akan diminta untuk memasukana id, nama atau kategori produk yang dicari yang dilengkapi dengan pengubahan menjadi lowercase untuk memastikan apa yang user masukan apakah ada atau tidak
 python <img width="924" height="376" alt="image" src="https://github.com/user-attachments/assets/ad3307cc-6f64-4206-8019-1aeac69b941c" />
 java <img width="1286" height="609" alt="image" src="https://github.com/user-attachments/assets/3f095c54-dfa9-41d7-9ed6-8ad8513043e9" />
-CPP
+CPP <img width="1164" height="390" alt="image" src="https://github.com/user-attachments/assets/812963d7-d614-4cfa-b418-0f1c2957b0e6" />
 PHP <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7c570f46-5ea3-4ee7-af6d-b926c171b182" />
-
-
 
 7. Exit
 Pada bahasa pemprograman java, cpp, dan python exit ini digunkana untuk keluar dari loop utama atau untuk mengakhiri program 
 python  <img width="764" height="270" alt="image" src="https://github.com/user-attachments/assets/5d3a72b5-4aed-480e-b852-54745447b0a9" />
 java <img width="1007" height="249" alt="image" src="https://github.com/user-attachments/assets/11638f2d-be7b-4f7d-ac59-e5e0a475c1be" />
+cpp <img width="1027" height="268" alt="image" src="https://github.com/user-attachments/assets/7e9f89ef-a8b0-4759-9024-61a2b925c864" />
 
-
-untuk php dilengkapi dengan button dan tampilan sehingga mempermudah penggunaan 
+untuk php dilengkapi dengan button dan tampilan sehingga mempermudah penggunaan, berbeda dengan python, java, dan cpp, php tidak perlu memasukan id tetapi dibuat dengan button yang sudah menunjukan dengan button tersebut produk mana yang akan dihapus diedit
